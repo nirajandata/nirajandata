@@ -8,6 +8,6 @@
 - 😄 Pronouns: Nyeraajan
 - ⚡ Fun fact: i am single :) 
 
-![Nirajan's github stats](https://github-readme-stats.vercel.app/api?username=nirajandata&show_icons=true&theme=radical)
+![Nirajan's github stats](https://github-readme-stats.vercel.app/api?username=nirajandata&show_icons=true&theme=radical) &nbsp &nbsp
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajandata&show_icons=true&theme=radical)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&show_icons=true&theme=radical)
