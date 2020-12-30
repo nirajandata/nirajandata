@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning data science
-- 💬 Ask me about [Bhakti](https://www.jagatgururampalji.org/)
+- 💬 Learn me about [Bhakti](https://www.jagatgururampalji.org/)
 - 📫 How to reach me: [Twitter](https://twitter.com/nirajandata)
 - 😄 Nickname: Navaraj Dhakal 
 
