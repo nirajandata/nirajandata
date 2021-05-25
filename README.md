@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning data science [edit : i am doing nothing tbh these days it's been more than 2 months living outside my hometown so]
+- 🌱 I’m currently learning data science [recent updates: i'm moving to cp from deeplearning for few months]
 - 💬 Learn more about [Bhakti](https://www.jagatgururampalji.org/)
 - 📫 How to reach me: [Twitter](https://twitter.com/nirajandata)
 - 😄 Nickname: Navaraj Dhakal <br>
