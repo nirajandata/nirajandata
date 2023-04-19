@@ -3,8 +3,8 @@
 
 
 - 🌱 I’m currently learning something !!
-- 💬 Learn more about [Bhakti](https://www.jagatgururampalji.org/)
-- 📫 How to reach me: [Twitter](https://twitter.com/nirajandata)
+- 💬 Wanna learn about religious stuff?? Check out [Bhakti](https://www.jagatgururampalji.org/)
+- 📫 How to reach me: Discord id : `Nirajan#1693`
 - 😄 Nickname: Navaraj Dhakal <br>
 
 - 👀 Profile Viewers : ![](https://komarev.com/ghpvc/?username=nirajandata&label=PROFILE+VIEWS)<br>
